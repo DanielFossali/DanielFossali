@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/DanielFossali/DanielFossali/blob/output/github-contribution-grid-snake.svg)
-
 # Hi there Welcome to my GitHub profile 
 
 ## My name is Daniel Fossali👋
